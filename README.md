@@ -1,2 +1,2 @@
 # Dating-App
- Angular + ASP DOTNET + Entity Core Framework + SQLite + Bootstrap
+ Angular + DotNET Core + Entity Core Framework + SqlServer+ Bootstrap
